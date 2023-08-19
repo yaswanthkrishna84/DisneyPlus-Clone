@@ -15,8 +15,7 @@ Click demo to try it by yourself!
 - Deploy the App LIVE on Firebase
 
 ## Author
-
-Özge Coşkun Gürsucu (codermother)
+Yaswanth Krishna
 
 In the project directory, you can run:
 
